@@ -1,0 +1,8 @@
+{
+  "ignore": [
+    "data/**/*.json",
+    "uploads/**/*.pdf",
+    "uploads/**/*.png"
+  ],
+  "delay": "1000"
+}
